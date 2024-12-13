@@ -1,0 +1,9 @@
+*.dll
+*.exe
+*.pdb
+/bin
+/obj
+*.cache
+/Restfull/bin
+/Restfull/obj
+Restfull/Data/Categorias.json
